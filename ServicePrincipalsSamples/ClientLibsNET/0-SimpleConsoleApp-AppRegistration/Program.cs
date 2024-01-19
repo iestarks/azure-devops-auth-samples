@@ -10,12 +10,12 @@ using Microsoft.VisualStudio.Services.WebApi.Patch.Json;
 
 /// PARAMETERS
 const string AdoBaseUrl = "https://dev.azure.com";
-const string AdoOrgName = "Your organization name";
+const string AdoOrgName = "irvstarks";
 
-const string AadTenantId = "Your Azure AD tenant id";
-const string AadClientId = "";  // Client ID for your App Registration / Service Principal
+const string AadTenantId = "c58723e0-75d6-40ab-8459-3c21f3595622";
+const string AadClientId = "6955e6fd-7ecf-4e16-a0a3-a82e8a9d0e19";  // Client ID for your App Registration / Service Principal
 // Set one of either clientSecret or certificateThumbprint
-const string AadClientSecret = ""; // Client Secret for your App Registration / Service Principal
+const string AadClientSecret = "b9eb765f-4247-4b82-96b8-95fb789ae6af"; // Client Secret for your App Registration / Service Principal
 const string AadCertificateThumbprint = ""; // Thumbprint for your client certificate
 
 
