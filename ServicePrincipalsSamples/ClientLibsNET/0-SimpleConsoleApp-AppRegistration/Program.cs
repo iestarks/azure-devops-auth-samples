@@ -9,7 +9,7 @@ using Microsoft.VisualStudio.Services.WebApi.Patch.Json;
 
 
 /// PARAMETERS
-const string AdoBaseUrl = "https://dev.azure.com/irvstarks";
+const string AdoBaseUrl = "https://dev.azure.com/";
 const string AdoOrgName = "irvstarks";
 
 const string AadTenantId = "c58723e0-75d6-40ab-8459-3c21f3595622";
